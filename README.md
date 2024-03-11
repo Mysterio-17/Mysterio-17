@@ -21,7 +21,7 @@ I'm a passionate undergrad based in Gwalior entering into the world of technolog
 Let's connect and collaborate! You can find me on:
 <div style="text-align: center;">
   
-<a href ="www.linkedin.com/in/mradul-tiwari-021774214"> <img src =
+<a href ="www.linkedin.com/in/mradul-tiwari-021774214"><img src ="https://github.com/Mysterio-17/Mysterio-17/blob/main/linkedIn.png" width="45" height="45"></a>
 
 
 
