@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**Mysterio-17/Mysterio-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # 👋 Hello, Mysterio this side...
 
-Here are some ideas to get you started:
+I'm a passionate undergrad based in Gwalior entering into the world of technology.I would love to  work on projects that challenge and inspire me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+ 
+
+
+
+## 🌐 Connect with Me
+
+Let's connect and collaborate! You can find me on:
+
+- [LinkedIn](Your LinkedIn Profile URL)
+- [Twitter](Your Twitter Profile URL)
+- [Portfolio](Your Portfolio or Website URL)
+
+## 🤝 Open to Collaboration
+
+I'm always open to collaborating on interesting projects. If you have an idea or want to work together, feel free to reach out!
+
+## 📬 Contact
+
+You can reach me via email at mradultiwari1708@gmail.com
