@@ -5,7 +5,9 @@ I'm a passionate undergrad based in Gwalior entering into the world of technolog
 
 ## 🚀 Skills
 
- 
+ <p align="left">
+<img src=https://github.com/Mysterio-17/Mysterio-17/blob/main/c.png> width=45 height=45></img>
+
 
 
 
