@@ -12,12 +12,16 @@ I'm a passionate undergrad based in Gwalior entering into the world of technolog
 <img src=https://github.com/Mysterio-17/Mysterio-17/blob/main/android_studio.png width=45 height=45></img>
 <img src=https://github.com/Mysterio-17/Mysterio-17/blob/main/autocad.png width=45 height=45></img>
 
+</p>
 
 
 
 ## 🌐 Connect with Me
 
 Let's connect and collaborate! You can find me on:
+<div style="text-align: center;">
+  
+<a href ="www.linkedin.com/in/mradul-tiwari-021774214"> <img src =
 
 
 
