@@ -22,7 +22,7 @@ Let's connect and collaborate! You can find me on:
 <div style="text-align: center;">
   
 <a href ="www.linkedin.com/in/mradul-tiwari-021774214"><img src ="https://github.com/Mysterio-17/Mysterio-17/blob/main/linkedIn.png" width="45" height="45"></a>
-<a href ="https://www.instagram.com/t__mradul_17/"> <img src ="
+<a href ="https://www.instagram.com/t__mradul_17/"> <img src ="https://github.com/Mysterio-17/Mysterio-17/blob/main/insta.webp" width="45" height="45"></a>
 
 
 
