@@ -18,12 +18,12 @@
 
 <h2 align="left">👩‍💻  About Me</h2>
 
+
 <p align="left">
 I'm Mradul, an IT undergrad from IIIT Gwalior.<br><br>
 - 📚 I'm currently exploring new technologies, especially in web development and deployment.<br>
 - 🎯 I enjoy building real-time applications and solving logical problems.<br>
 - 🎬 In my free time, I enjoy movies, hanging out with friends, and relaxing.
-
 </p>
 
 
